@@ -24,6 +24,16 @@ The workflow is:
 
 ---
 
+## Required Libraries
+
+Before running please install the ZumoShield Library:
+1. In the Arduino IDE, open the "Sketch" menu, select "Include Library", then "Manage Libraries...".
+2. Search for "ZumoShield".
+3. Click the ZumoShield entry in the list.
+4. Click "Install".
+
+---
+
 ## Key Features
 
 ### Loose Line Following
