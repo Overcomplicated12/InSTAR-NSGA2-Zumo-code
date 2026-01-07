@@ -51,7 +51,7 @@ Before running please install the ZumoShield Library:
 ### Abort During a Run
 - During a run, you can type:
 ``` bash
-FAIL
+F
 ```
 into the serial monitor to abort a run
 - You can also hold down the zumo button for about 1s to abort however the feature does not fully work
